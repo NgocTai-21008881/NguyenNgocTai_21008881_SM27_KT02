@@ -1,0 +1,18 @@
+{
+  "scheme": "acme",
+  "userInterfaceStyle": "automatic",
+  "orientation": "default",
+  "web": {
+    "output": "static"
+  },
+  "plugins": [
+    [
+      "expo-router",
+      {
+        "origin": "https://n"
+      }
+    ]
+  ],
+  "name": "NguyenNgocTai_21008881_TK02",
+  "slug": "NguyenNgocTai_21008881_TK02"
+}
